@@ -1,2 +1,2 @@
 # Live-Face-Mask-Detection
-Check if a person is wearing a mask in a live streaming video
+A real-time system to detect whether the person on the webcam is wearing a mask or not.
